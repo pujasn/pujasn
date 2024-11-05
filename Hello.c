@@ -3,4 +3,5 @@
 void main()
 {
   printf("\n Hello Git");
+  return;
 }
